@@ -71,7 +71,7 @@
 
 如果希望马上停止应用计费，目前请您在OSS控制台指定Bucket内进行手动操作： https://oss.console.aliyun.com/bucket
 
-进入您在「部署配置」中选择的Bucket，点击「文件管理」，并在多选框中勾选所有存储的文件，点击「删除」，即可即时完全停止应用被外界访问。
+进入您在「部署配置」中选择的Bucket，点击「文件管理」，并在多选框中勾选所有存储的文件，点击「删除」，即可即时完全停止应用被外界访问
 
 <img src="https://ecoboost-readme-image.oss-cn-shanghai.aliyuncs.com/feApp/github/lifeRestart/ossdelete.png" width="500">
 
